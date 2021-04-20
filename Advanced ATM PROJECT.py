@@ -1,6 +1,5 @@
 import random
-#import validation 
-#import database
+
 database = { 
     3455698649: ['sam', 'godwin', 'samgodwin03@gmail.com','passwords', ]
 
